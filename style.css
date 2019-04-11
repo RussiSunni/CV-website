@@ -5,7 +5,20 @@ html, body {
     height: 100%;
 }
 
+body {
+    background: #1d92c3;
+
+}
+
 ul {
     list-style-type:none;
 }
 
+.list-group-item  {
+    background: #bde3ec;
+    border: 1px solid white;
+}
+
+.list-group-item-action:focus, .list-group-item-action:hover {
+    background: #d8eaef;
+}
