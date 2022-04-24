@@ -33,9 +33,11 @@ font-family: 'Press Start 2P', cursive;
     list-style-type:none;
 } */
 
+
+
 .list-group-item {
   background: #bde3ec;
-  border: 1px solid #495057;
+  border: 2px solid black;
 }
 
 .list-group-item-action:focus,
@@ -123,7 +125,8 @@ h1 {
   width: 100%;
   padding: 5px;
   background: #bde3ec;
-  border-radius: 10px;;
+  border-radius: 10px;
+  border-color: black;
 }
 
 /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
