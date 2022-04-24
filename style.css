@@ -1,6 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
 html,
 body {
   height: 100%;
+}
+
+.games-font {
+font-family: 'Press Start 2P', cursive;
 }
 
 .index-body {
@@ -117,6 +123,7 @@ h1 {
   width: 100%;
   padding: 5px;
   background: #bde3ec;
+  border-radius: 10px;;
 }
 
 /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
