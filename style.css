@@ -40,12 +40,12 @@ font-family: 'Press Start 2P', cursive;
   border: 2px solid black;
 }
 
-.list-group-item-action:focus,
+/* .list-group-item-action:focus,
 .list-group-item-action:hover {
   background: #d8eaef;
   color: black;
   font-weight: 600;
-}
+} */
 
 .list-group-item-action {
   color: black;
